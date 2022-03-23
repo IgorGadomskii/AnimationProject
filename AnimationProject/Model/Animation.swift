@@ -28,18 +28,5 @@ extension Animation {
         let newCurves = Data.shared.curvesList.shuffled()
         return newCurves
     }
-    
-//    func newPresetName() -> String {
-//        let animations = Animation.getPresets()
-//        let newName = animations[0]
-//        return newName
-//    }
-//    
-//  func newCurveName() -> String {
-//        let curves = Animation.getCurves()
-//        let newCurvesName = curves[0]
-//        return newCurvesName
-//    }
-    
  
 }
